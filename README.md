@@ -2,10 +2,11 @@
 ## Morongwe Masego Mathebe
 ### ST10511919 Morongwe
 ## Project Description
-This project is a website designed for the National Council of SPCAs (NSPCA). The purpose of the website is to provide information about animal welfare, the NSPCA's services, volunteering opportunities and ways for users to contact the organisation.
+This project is a website designed for the National Council of SPCAs (NSPCA). The purpose of the website is to provide information about animal welfare, the services offered by the NSPCA, volunteering opportunities and ways for visitors to contact the organisation.
 
-The website was developed using HTML, CSS and JavaScript. It also includes responsive design and an embedded Google Maps location on the Contact pageroject Description
-## Technologies used
+The website was developed using HTML5, CSS3 and JavaScript. It includes a responsive layout, interactive forms and an embedded Google Maps location on the Contact page.
+
+## Technologies Used
 HTML5
 CSS3
 JavaScript
@@ -13,51 +14,77 @@ Google Maps
 Git and GitHub
 Visual Studio Code
 Live Server
-## Website Features
+Website Features
+
+## The website includes the following features:
+
 Home page
 About Us page
 Services page
 Enquiry page
 Contact page
-Responsive design
+Responsive website layout
 Animal welfare images with alternative text
-Contact form with client-side validation
-JavaScript functionality
-SEO metadata
+Contact form with validation
+Enquiry form with validation and confirmation messages
+SEO titles and meta descriptions
 Google Maps integration
+robots.txt file
+sitemap.xml file
+Project Structure
+
+## The website contains the following main files and folders:
+
+index.html – Home page
+about.html – Information about the NSPCA
+services.html – NSPCA services
+enquiry.html – Enquiry and volunteering form
+contact.html – Contact information, contact form and map
+css/style.css – Website styling
+js/script.js – JavaScript functionality
+images/ – Website images and logo
+robots.txt – Search engine crawling instructions
+sitemap.xml – Website page information for search engines
 ## Changelog
-### Part 1
-Created the initial NSPCA website structure.
-Created the Home, About Us, Services, Enquiry and Contact pages.
-Added navigation between website pages.
+### Part 1: Website Planning and HTML
+Selected the NSPCA as the organisation for the website project.
+Created the initial website structure.
+Developed the Home, About Us, Services, Enquiry and Contact pages.
+Added navigation links between the pages.
 Added images and the NSPCA logo.
-Created the initial HTML structure.
-### Part 2
+Created the initial HTML content.
+### Part 2: CSS and Responsive Design
 Created and updated the CSS stylesheet.
 Added the website colour scheme.
 Styled headings, buttons, forms, images and content sections.
 Added responsive design using CSS media queries.
-Tested the website on desktop, tablet and mobile screen sizes.
-Improved readability and accessibility.
-### Part 3
-Added JavaScript functionality.
-Added client-side form validation.
-Added form confirmation messages.
-Added SEO metadata to the website pages.
-Added alternative text to images.
+Tested the website on different screen sizes.
+Improved the website layout and readability.
+### Part 3: JavaScript, Forms and SEO
+Added JavaScript functionality to the website.
+Added client-side validation to the Enquiry and Contact forms.
+Added confirmation messages after form submission.
+Added SEO titles, keywords and meta descriptions.
+Added alternative text to website images.
 Embedded Google Maps on the Contact page.
-Updated the README file with Part 3 references.
-Tested the website after adding the new functionality.
-## References 
-The Independent Institute of Education. (2026)  Harvard Referencing Guide. Available at: https://iie.ac.za [Accessed 10 August 2026].
-NSPCA. (2026)  About  NSPCA. Available at: https://nspca.co.za/about-us/ [Accessed 10 August 2026].
-NSPCA. (2026) The National Council of SPCAs. Available at: https://nspca.co.za/ [Accessed 10 August 2026].
-NSPCA. (2026)  Reporting Animal Cruelty. Available at: https://nspca.co.za/reporting-animal-cruelty/ [Accessed 10 August 2026].
+Created the robots.txt file.
+Created the sitemap.xml file.
+Updated the README file and references.
+Tested the website pages and form functionality.
+## References
 
-Google Fonts. (2026)  Google Fonts. Available at: https://fonts.google.com/ [Accessed 10 August 2026].
-MDN Web Docs. (2026)  CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS [Accessed 10 August 2026].
-MDN Web Docs. (2026)  HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML [Accessed 10 August 2026].
-The Independent Institute of Education. (2026)  Harvard Referencing Guide. Available at: https://iie.ac.za [Accessed 10 August 2026].
+Google Fonts. (n.d.) Google Fonts. Accessed 2 November 2026.
 
-MDN Web Docs. (2026) JavaScript. Available at: https://
+MDN Web Docs. (n.d.) CSS: Cascading Style Sheets. Accessed 2 November 2026.
 
+MDN Web Docs. (n.d.) HTML: HyperText Markup Language. Accessed 2 November 2026.
+
+MDN Web Docs. (n.d.) JavaScript. Accessed 2 November 2026.
+
+National Council of SPCAs (NSPCA). (n.d.) About the NSPCA. Accessed 2 November 2026.
+
+National Council of SPCAs (NSPCA). (n.d.) Reporting Animal Cruelty. Accessed 2 November 2026.
+
+National Council of SPCAs (NSPCA). (n.d.) Official Website. Accessed 2 November 2026.
+
+The Independent Institute of Education. (2026) Harvard Referencing Guide. Accessed 2 November 2026.
